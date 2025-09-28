@@ -15,3 +15,4 @@ Task를 JSON 파일로 저장/불러오고, 달력에 오버레이하며, 공휴
 - 설정/상태: 레지스트리 저장(창 유지, 자동 줄바꿈, 오버레이, 링크-셀 등)
 
 
+<img width="1757" height="895" alt="screen capture 2025-09-28 213408" src="https://github.com/user-attachments/assets/1dc2938a-ca97-4bda-a2c2-e7a639b8892c" />
